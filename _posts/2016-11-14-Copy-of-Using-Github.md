@@ -1,17 +1,17 @@
 ---
-title: A new code
+title: Copy of Using Github
 layout: post
 author: alex.coyne
 permalink: /copy-of-using-github/
-source-id: 1FyalZJiSpDdAqI0uXyXbxhHI6eXDwqp5sxIN6cRM_6A
+source-id: 1y9oe-lLV2Xl7dxb1_UJ2bMNVjfBdLaxjkMk_az3OuTc
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Finishing off and starting new</td>
+    <td>coding</td>
     <td>Date</td>
-    <td>10/09/16</td>
+    <td>17/08/16</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Nearly finished the eating fruit exercise</td>
+    <td>Finishing last week's exercise</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To finish off the exercise that we were doing last lesson and get some where on the next one.</td>
+    <td>To finish next exercise</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes, I finished the thing that we were doing last lesson and started the next one.</td>
+    <td> I did and more</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>In this lesson me and my partner shared out the work that we were doing because we normally have two separate jobs and switch what we do every lesson. The best strategy for the new exercise was to not skip ahead and think what you are doing is right. You need to follow the instructions and do everything it tells you because it will just not work otherwise.</td>
+    <td>luckily this week we didn't have a computer that was completely zoomed in and can't check if your work was actually working. After we finished last week's coding we started with a new one and this one was very different to all the others because there were some keys that we had never used before in this code. Also there was lots of writing in it but it ended up working really well. You had to keep changing partner because otherwise it would just lack off.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>In this lesson we had a computer which was fully zoomed in which meant it limited my working. I asked the teacher at the start of the lesson and he tried to see what the problem was but he couldn't so we just had work with it really zoomed in. This didn't help us because every time we tried to run the program it kept on sending us back onto the home screen which meant we couldn't see if the work was working. Nearer the end of the lesson I asked another teacher but he didn't bother coming over to us.</td>
+    <td>Because this exercise was really long it took us ages to do. Looking for new keys was our main problem. At the start of the lesson there were no spare computers so it took us a while to see what we could do. In the end we had to do the work on the projecter so the whole class could see are mistakes.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next lesson if I have a problem which is stopping me from learning I will try as much as I can to fix it then I will ask a teacher and if he doesn't know I will ask the other and not be as patient so I can get as much work as I would like to in the lesson.</td>
+    <td>Next time my partner and I will make sure that we get a computer first so we don't have to get in trouble with it again. Because we have started the next exercise we need to get through it quickly because we are behind a few groups.</td>
   </tr>
 </table>
 
