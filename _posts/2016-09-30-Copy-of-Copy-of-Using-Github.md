@@ -1,5 +1,5 @@
 ---
-title: 1 st blog
+title: Copy of Copy of Using Github
 layout: post
 author: alex.coyne
 permalink: /copy-of-copy-of-using-github/
