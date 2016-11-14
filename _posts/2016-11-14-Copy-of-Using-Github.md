@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github
+title: A new start
 layout: post
 author: alex.coyne
 permalink: /copy-of-using-github/
