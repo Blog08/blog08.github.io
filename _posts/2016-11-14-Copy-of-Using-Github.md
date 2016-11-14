@@ -1,5 +1,5 @@
 ---
-title: coding 2
+title: A new code
 layout: post
 author: alex.coyne
 permalink: /copy-of-using-github/
