@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github
+title: Lookout for code
 layout: post
 author: alex.coyne
 permalink: /copy-of-using-github/
